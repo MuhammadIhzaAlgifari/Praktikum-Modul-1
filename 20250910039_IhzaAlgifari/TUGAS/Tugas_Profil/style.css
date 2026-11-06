@@ -1,0 +1,84 @@
+
+/* CSS untuk Profil Diri dan Profil Keluarga */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf2f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #d5e4f0;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: #2c3e50;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #3498db;
+}
+
+main {
+    width: 85%;
+    margin: auto;
+}
+
+section {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #34495e;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+img {
+    border-radius: 5px;
+    margin: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+}
+
+th {
+    background-color: #d5e4f0;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #2980b9;
+}
+
+footer {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
